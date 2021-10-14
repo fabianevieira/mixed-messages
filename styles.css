@@ -1,0 +1,13 @@
+.btn-search {
+    color: white;
+    background-color: #0a5c8c;
+    border-radius: 2px;
+    border: 1px solid #0a5c8c;
+    box-shadow: 0px 2px 2px 0px;
+}
+
+.btn-search:hover {
+    background-color: #032a41;
+    border: 1px solid #032a41;
+    cursor: pointer;
+}
